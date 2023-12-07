@@ -1,0 +1,19 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "task": "terminar taller",
+      "status": true
+    },
+    {
+      "id": 2,
+      "task": "empezar a pensar en el demo day",
+      "status": true
+    },
+    {
+      "id": 3,
+      "task": "terminar de ver las clases",
+      "status": false
+    }
+  ]
+}
